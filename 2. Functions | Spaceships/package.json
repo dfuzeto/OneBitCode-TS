@@ -1,0 +1,16 @@
+{
+  "name": "4-funcs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "typescript": "^5.2.2",
+    "typescriptnpm": "^1.0.1"
+  }
+}
